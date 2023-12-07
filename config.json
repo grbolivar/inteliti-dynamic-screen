@@ -1,1 +1,16 @@
-{"routeName":"ORANGE ROUTE / STOP #37","weather":{"updateEveryMins":60,"apiKey":"e7cd7118794283223387e02741f41e72","lon":"-80.1358914","lat":"25.9314559","units":"imperial"},"eta":{"updateEveryMins":1,"stopIds":["1451920"]}}
+{
+	"routeName": "ORANGE ROUTE / STOP #37",
+	"weather": {
+		"updateEveryMins": 60,
+		"apiKey": "e7cd7118794283223387e02741f41e72",
+		"lon": "-80.1358914",
+		"lat": "25.9314559",
+		"units": "imperial"
+	},
+	"eta": {
+		"updateEveryMins": 1,
+		"stopIds": [
+			"1451920"
+		]
+	}
+}
